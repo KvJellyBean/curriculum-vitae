@@ -12,7 +12,7 @@
   <p align="center">
     A personal website that showcases my professional journey, skills, and projects, providing a comprehensive and interactive experience.
     <br />
-    <a href="#">View Demo</a>
+    <a href="https://curriculum-vitae-kevin-natanael.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/KvJellyBean/curriculum-vitae/issues">Report Bug</a>
 </div>
