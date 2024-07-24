@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/KvJellyBean/curriculum-vitae">
-    <img src="./src/assets/logoBanner.jpeg" alt="Logo Banner">
+    <img src="./src/assets/logoBanner.png" alt="Logo Banner">
   </a>
 
 <h3 align="center">Curriculum</h3>
