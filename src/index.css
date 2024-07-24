@@ -23,7 +23,3 @@ p {
   pointer-events: none;
   background: radial-gradient(circle, #5b001d, transparent 50%);
 }
-
-* {
-  /* border: 1px solid aqua; */
-}
