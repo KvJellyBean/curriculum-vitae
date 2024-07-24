@@ -7,7 +7,7 @@
     <img src="./src/assets/logoBanner.png" alt="Logo Banner">
   </a>
 
-<h3 align="center">Curriculum</h3>
+<h3 align="center">Curriculum Vitae</h3>
 
   <p align="center">
     A personal website that showcases my professional journey, skills, and projects, providing a comprehensive and interactive experience.
@@ -94,7 +94,11 @@ Quickly set up a local copy by following these simple steps for a seamless start
 
 ## Roadmap
 
-- [ ] Home Page
+- [x] Home Page
+- [x] Skills Page
+- [x] Education Page
+  - [x] Detail of education page
+- [x] Portfolio Page
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
