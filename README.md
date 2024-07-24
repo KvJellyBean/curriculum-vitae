@@ -45,6 +45,12 @@
 
 Welcome to My Curriculum Vitae, a personal website designed to present my professional background and accomplishments in an engaging and interactive manner. This responsive application allows you to create a detailed and visually appealing CV website that highlights your skills, experiences, and projects.
 
+### Technologies Used
+
+- **React:** For building the user interface.
+- **Tailwind CSS:** For styling and responsive design.
+- **Vite:** For a fast development build tool.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
