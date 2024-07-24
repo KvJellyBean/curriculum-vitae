@@ -1,5 +1,5 @@
 import React from "react";
-import { useOutletContext, useParams } from "react-router-dom";
+import { Link, useOutletContext, useParams } from "react-router-dom";
 import ShinyEffect from "./ShinyEffect";
 
 const EducationDetail = () => {
@@ -56,6 +56,10 @@ const EducationDetail = () => {
             </a>
           </div>
         </div>
+      </div>
+
+      <div className="px-4 py-2 mt-8 text-xl text-center text-[#ff0151] border-2 border-[#ff0151] rounded-xl hover:bg-[#ff0151] hover:text-white">
+        <Link to={-1}>Go Back</Link>
       </div>
 
       <div className="absolute inset-0 block h-fit sm:h-auto -z-50">
