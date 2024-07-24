@@ -1,9 +1,16 @@
-import React from "react";
+import { Outlet } from "react-router-dom";
+import Footer from "./components/Footer";
+import ScrollToTop from "./components/ScrollToTop";
+import Navbar from "./components/Navbar";
+import { skills, educations, projects } from "../data";
 
 export default function App() {
   return (
-    <div>
-      <h1 className="text-3xl font-bold underline">Hello World</h1>
-    </div>
+    <>
+      <ScrollToTop />
+      <Navbar />
+      <Outlet context={{ skills, educations, projects }} />
+      <Footer />
+    </>
   );
 }
