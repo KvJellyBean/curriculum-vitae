@@ -203,7 +203,7 @@ export const projects = [
     description:
       "A fullstack e-commerce application built with Express.js, Bootstrap, and MongoDB.",
     links: {
-      github: "https://github.com/KvJellyBean/e-commerce-js",
+      github: "https://github.com/KvJellyBean/shoezone",
     },
   },
   {
